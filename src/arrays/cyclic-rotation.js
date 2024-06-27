@@ -52,8 +52,5 @@ function shiftArray(A) {
 
 
 
-//console.log(solution([3, 8, 9, 7, 6], 3))
+console.log(solution([3, 8, 9, 7, 6], 3))
 
-
-let A = shiftArray([3, 8, 9, 7, 6])
-let B = shiftArray(A)
